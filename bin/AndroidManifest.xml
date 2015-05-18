@@ -2,7 +2,7 @@
     package="yicheng.android.ui.floatingactionbutton" >
 
     <uses-sdk
-        android:minSdkVersion="8"
+        android:minSdkVersion="11"
         android:targetSdkVersion="21" />
 
 </manifest>
